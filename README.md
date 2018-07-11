@@ -1,5 +1,6 @@
 # ZS_Fixer
-Simple script for fixing a bug that occurs when editing a Z-S Overview in the game Eve Online
+Simple script for fixing a bug that occurs when editing a Z-S Overview in the game Eve Online.
+Fixes the faulty html tags that don't get handled properly after saving an overview setting in-game.
 
 ## Installs
 You need Python 3.x
